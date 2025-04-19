@@ -1,14 +1,14 @@
-#Reconhecimentos e Direitos Autorais
+Reconhecimentos e Direitos Autorais
 ---
-##@autor: [Antonio Fialho, Justino Felipe] 
+@autor: [Antonio Fialho, Justino Felipe] 
 ---
-##@contato: [antonio.fialho@discente.ufma.br, justino.felipe@discente.ufma.br] 
+@contato: [antonio.fialho@discente.ufma.br, justino.felipe@discente.ufma.br] 
 ---
-##@data última versão: [18.04.2025] 
+@data última versão: [18.04.2025] 
 ---
-##@versão: 1.0 
+@versão: 1.0 
 ---
-##@Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor 
+@Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor 
 Thales Levi Azevedo Valente, e colegas de curso. 
 ---
 ##Copyright/License 
