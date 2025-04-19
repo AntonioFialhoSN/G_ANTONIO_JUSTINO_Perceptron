@@ -1,5 +1,5 @@
 # Reconhecimentos e Direitos Autorais
-
+---
 @autor: [Antonio Fialho, Justino Felipe] 
 
 @contato: [antonio.fialho@discente.ufma.br, justino.felipe@discente.ufma.br] 
