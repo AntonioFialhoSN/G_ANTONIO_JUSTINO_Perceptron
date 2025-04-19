@@ -1,17 +1,17 @@
-#Reconhecimentos e Direitos Autorais
----
+# Reconhecimentos e Direitos Autorais
+
 @autor: [Antonio Fialho, Justino Felipe] 
----
+
 @contato: [antonio.fialho@discente.ufma.br, justino.felipe@discente.ufma.br] 
----
+
 @data última versão: [18.04.2025] 
----
+
 @versão: 1.0 
----
+
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor 
 Thales Levi Azevedo Valente, e colegas de curso. 
----
-#Copyright/License 
+
+## Copyright/License 
 ---
 Este material é resultado de um trabalho acadêmico para a disciplina 
 TÓPICOS EM ENGENHARIA DA COMPUTAÇÃO II - FUNDAMENTOS DE REDES NEURAIS, sob a orientação do professor Dr. THALES LEVI 
