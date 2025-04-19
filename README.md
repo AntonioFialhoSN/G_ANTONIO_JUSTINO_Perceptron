@@ -8,7 +8,7 @@ data última versão: [18.04.2025]
 
 versão: 1.0 
 
-@Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor 
+Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor 
 Thales Levi Azevedo Valente, e colegas de curso. 
 
 ---
