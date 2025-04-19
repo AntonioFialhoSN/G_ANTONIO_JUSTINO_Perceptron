@@ -4,7 +4,7 @@ autores: [Antonio Fialho, Justino Felipe]
 
 contato: [antonio.fialho@discente.ufma.br, justino.felipe@discente.ufma.br] 
 
-data última versão: [18.04.2025] 
+data última versão: [19.04.2025] 
 
 versão: 1.0 
 
